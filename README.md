@@ -1,4 +1,4 @@
-# Pong-with-Python
+# pong-python
 Jogo Clássico (Pong) feito em Python.
 
 ![Screenshot](preview.png)
